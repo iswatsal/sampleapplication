@@ -10,5 +10,4 @@ this is for the culture
 willie is in the class but did not do his assignment
 we tryna get a failed job notification
 
-I think Mr. Yemi is here with Us
-Bj has taught us quite well and it is pretty clear
+
