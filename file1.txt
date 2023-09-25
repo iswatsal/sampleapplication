@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is us testing the trigers
 This is another trigger
 This is another test
+=======
+
+>>>>>>> e79034817ea60b497c4068d3fd49fe82fd97a251
